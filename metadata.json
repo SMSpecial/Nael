@@ -1,0 +1,8 @@
+{
+  "name": "مركز نائل عديلة لصوتيات وزينة السيارات | Nael Adelah Center",
+  "description": "الموقع الرسمي لمركز نائل عديلة لصوتيات وزينة السيارات وأنظمة الشاشات الذكية والتظليل الحراري في عمان - الأردن.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
