@@ -23,7 +23,7 @@
 # مؤسسة العلامة المميزة للحلول التقنية والتصميم | Special MarK Tech
 
 <div align="center">
-  <img src="public/assets/aistudio/Sm_Blac_bbf8b6c8.jpg" alt="Special MarK Crown & Wreath Official Logo" width="160" style="border-radius: 50%; border: 2px solid #d4af37;" />
+  <img src="https://github.com/SMSpecial/MarK/blob/8cf5232c38857fbe67a41ca0d35a2548c04266a6/public/assets/aistudio/Sm_Blac_bbf8b6c8.jpg" alt="Special MarK Crown & Wreath Official Logo" width="160" style="border-radius: 50%; border: 2px solid #d4af37;" />
 
   <h3>Where Bold Visions Evolve into Distinctive Digital Landmarks</h3>
   <p><strong>حيث تتحول الرؤى المبتكرة إلى علامات فارقة تقود المستقبل الرقمي</strong></p>
